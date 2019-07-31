@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 48bb4837106a44466aea61fef9b346fe, type: 3}
-  m_Name: References
+  m_Script: {fileID: 11500000, guid: 4b4a24d0e4a28423fb3249b923d7e418, type: 3}
+  m_Name: PrototypeLouis_ManagerPackage
   m_EditorClassIdentifier: 
   actionsManager: {fileID: 11400000, guid: 11305db82011d3341a252bb3454df118, type: 2}
   sceneManager: {fileID: 11400000, guid: 6b95e9d7a7424414abcd2fb2680784f8, type: 2}
@@ -20,4 +20,3 @@ MonoBehaviour:
   speechManager: {fileID: 11400000, guid: ce41976f0ee13e44fb919857becf45ba, type: 2}
   cursorManager: {fileID: 11400000, guid: 922f106a6bc8c374382d7f8d2c2015b4, type: 2}
   menuManager: {fileID: 11400000, guid: bed2818a0c351ce4f9826f5edd17da5f, type: 2}
-  viewingMenuManager: 0
