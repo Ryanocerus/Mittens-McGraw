@@ -84,6 +84,58 @@ MonoBehaviour:
     unhandledActionList: {fileID: 0}
     unhandledCombineActionList: {fileID: 0}
     showInFilter: 1
+  - label: Firepoker
+    id: 1
+    altLabel: 
+    carryOnStart: 0
+    carryOnStartNotDefault: 0
+    carryOnStartID: 0
+    vars: []
+    canCarryMultiple: 0
+    count: 1
+    useSeparateSlots: 0
+    selectSingle: 0
+    tex: {fileID: 0}
+    activeTex: {fileID: 0}
+    selectedTex: {fileID: 0}
+    linkedPrefab: {fileID: 0}
+    cursorIcon:
+      texture: {fileID: 0}
+      isAnimated: 0
+      numFrames: 1
+      numRows: 1
+      numCols: 1
+      size: 0.04
+      animSpeed: 4
+      endAnimOnLastFrame: 0
+      skipFirstFrameWhenLooping: 0
+      clickOffset: {x: 0, y: 0}
+      frameSpeeds: []
+      alwaysAnimate: 0
+      dontCycle: 0
+      label: Icon 1
+      lineID: -1
+      id: 0
+    lineID: -1
+    useIconID: 0
+    binID: -1
+    recipeSlot: -1
+    lastInteractionIndex: 0
+    overrideUseSyntax: 0
+    hotspotPrefix1:
+      label: Use
+      lineID: -1
+    hotspotPrefix2:
+      label: on
+      lineID: -1
+    useActionList: {fileID: 0}
+    lookActionList: {fileID: 0}
+    interactions: []
+    combineActionList: []
+    combineID: 
+    unhandledActionList: {fileID: 0}
+    unhandledCombineActionList: {fileID: 0}
+    showInFilter: 1
   bins: []
   invVars: []
   unhandledCombine: {fileID: 0}
