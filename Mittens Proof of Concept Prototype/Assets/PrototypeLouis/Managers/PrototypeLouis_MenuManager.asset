@@ -792,9 +792,9 @@ MonoBehaviour:
   isLocked: 0
   id: 14
   title: Arrow
-  manualSize: {x: 9.2, y: 2.8}
+  manualSize: {x: 9.2, y: 5.5}
   positionType: 2
-  manualPosition: {x: 50, y: 5.3}
+  manualPosition: {x: 50, y: 9}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -867,9 +867,9 @@ MonoBehaviour:
   rect:
     serializedVersion: 2
     x: 527.094
-    y: 30.498003
+    y: 48.875008
     width: 106.812
-    height: 21.896
+    height: 43.01
   showInFilter: 1
 --- !u!114 &114177996351370812
 MonoBehaviour:
@@ -1727,7 +1727,7 @@ MonoBehaviour:
   isLocked: 0
   id: 5
   title: Conversation
-  manualSize: {x: 35.999996, y: 29.226978}
+  manualSize: {x: 36, y: 29.14642}
   positionType: 2
   manualPosition: {x: 24, y: 69.7}
   positionSmoothing: 0
@@ -1800,13 +1800,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 412.15497, y: 222.74998}
+  biggestElementSize: {x: 397.245, y: 222.33}
   rect:
     serializedVersion: 2
-    x: 69.66
-    y: 430.77646
-    width: 417.95996
-    height: 228.55498
+    x: 67.14
+    y: 431.09146
+    width: 402.84
+    height: 227.925
   showInFilter: 1
 --- !u!114 &114330715539800608
 MonoBehaviour:
@@ -3526,9 +3526,9 @@ MonoBehaviour:
   linkedUiID: 14192356
   relativeRect:
     serializedVersion: 2
-    x: 5.805
-    y: 214.92998
-    width: 406.34998
+    x: 5.595
+    y: 214.51
+    width: 391.65
     height: 7.82
   relativePosition: {x: 0, y: 0}
   numSlots: 1
@@ -5496,7 +5496,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: 
-  slotSize: {x: 8.6, y: 3.3248081}
+  slotSize: {x: 8.6, y: 5.2}
   sizeType: 1
   positionType: 2
   slotSpacing: 0
@@ -5521,10 +5521,10 @@ MonoBehaviour:
   relativeRect:
     serializedVersion: 2
     x: 0
-    y: 0
+    y: 0.73117
     width: 99.846
-    height: 26
-  relativePosition: {x: 0, y: 0}
+    height: 40.663998
+  relativePosition: {x: 0, y: 1.7}
   numSlots: 1
   uiButton: {fileID: 0}
   uiPointerState: 0
@@ -6398,9 +6398,9 @@ MonoBehaviour:
   linkedUiID: 0
   relativeRect:
     serializedVersion: 2
-    x: 5.805
-    y: 5.805
-    width: 406.34998
+    x: 5.595
+    y: 5.595
+    width: 391.65
     height: 203.31999
   relativePosition: {x: 0, y: 0}
   numSlots: 5
