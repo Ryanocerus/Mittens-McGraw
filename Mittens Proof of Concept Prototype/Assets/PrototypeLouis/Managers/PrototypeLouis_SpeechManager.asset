@@ -35,7 +35,7 @@ MonoBehaviour:
   autoSpeechFolder: Speech
   autoLipsyncFolder: Lipsync
   forceSubtitles: 1
-  translateAudio: 1
+  translateAudio: 0
   separateVoiceAndTextLanguages: 0
   fallbackAudio: 0
   keepTextInBuffer: 0
