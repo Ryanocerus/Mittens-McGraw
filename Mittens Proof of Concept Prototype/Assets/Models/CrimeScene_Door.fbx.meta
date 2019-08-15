@@ -1,14 +1,14 @@
 fileFormatVersion: 2
-guid: 32735ee0882c86c40bc0a1e522d0ab51
+guid: 543d8944c3657b7408accd15cd5bcbef
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: mat_bin
+    2100000: lambert1
     2300000: //RootNode
     3300000: //RootNode
-    4300000: bin
+    4300000: CrimeScene_Door
   externalObjects: {}
   materials:
     importMaterials: 1

@@ -1,14 +1,76 @@
 fileFormatVersion: 2
-guid: 77fa364209a01354da54c8ab8cd6eaff
+guid: a724ff477966d16439abb09907d59f17
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2100000: lambert4
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: CrimeScene_Floor
+    100000: Cat_Model
+    100002: //RootNode
+    100004: Fingers
+    100006: Fingers 1
+    100008: Head
+    100010: Hips
+    100012: LeftArm
+    100014: LeftArm 1
+    100016: LeftFoot
+    100018: LeftFoot 1
+    100020: LeftForeArm
+    100022: LeftForeArm 1
+    100024: LeftHand
+    100026: LeftHand 1
+    100028: LeftLeg
+    100030: LeftLeg 1
+    100032: LeftLowLeg
+    100034: LeftLowLeg 1
+    100036: LeftShoulder
+    100038: LeftShoulder1
+    100040: LeftToeBase
+    100042: LeftToeBase 1
+    100044: LeftUpLeg
+    100046: LeftUpLeg1
+    100048: Neck
+    100050: Reference
+    100052: Spine_Chest
+    100054: Spine_Core
+    100056: TailBase
+    100058: TailEnd
+    100060: TailLower
+    100062: TailUpper
+    400000: Cat_Model
+    400002: //RootNode
+    400004: Fingers
+    400006: Fingers 1
+    400008: Head
+    400010: Hips
+    400012: LeftArm
+    400014: LeftArm 1
+    400016: LeftFoot
+    400018: LeftFoot 1
+    400020: LeftForeArm
+    400022: LeftForeArm 1
+    400024: LeftHand
+    400026: LeftHand 1
+    400028: LeftLeg
+    400030: LeftLeg 1
+    400032: LeftLowLeg
+    400034: LeftLowLeg 1
+    400036: LeftShoulder
+    400038: LeftShoulder1
+    400040: LeftToeBase
+    400042: LeftToeBase 1
+    400044: LeftUpLeg
+    400046: LeftUpLeg1
+    400048: Neck
+    400050: Reference
+    400052: Spine_Chest
+    400054: Spine_Core
+    400056: TailBase
+    400058: TailEnd
+    400060: TailLower
+    400062: TailUpper
+    2100000: lambert1
+    4300000: Cat_Model
+    9500000: //RootNode
+    13700000: Cat_Model
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -61,8 +123,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    previousCalculatedGlobalScale: 0.1
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -89,7 +151,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

@@ -1,14 +1,14 @@
 fileFormatVersion: 2
-guid: 77fa364209a01354da54c8ab8cd6eaff
+guid: 6b260a6216a843e42b66d701fa2ebb5b
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: lambert4
+    2100000: lambert1
     2300000: //RootNode
     3300000: //RootNode
-    4300000: CrimeScene_Floor
+    4300000: CrimeScene_Stove
   externalObjects: {}
   materials:
     importMaterials: 1

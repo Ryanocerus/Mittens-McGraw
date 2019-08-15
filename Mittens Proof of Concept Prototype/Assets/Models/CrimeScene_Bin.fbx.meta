@@ -1,16 +1,14 @@
 fileFormatVersion: 2
-guid: 68561900f5d078b48a89df7160a29148
+guid: c7ff2b84920e3ad42a35cb7844ad4272
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: w_briefcase
-    100002: //RootNode
-    400000: w_briefcase
-    400002: //RootNode
-    2100000: StingrayPBS1
-    2300000: w_briefcase
-    3300000: w_briefcase
-    4300000: w_briefcase
+    100000: //RootNode
+    400000: //RootNode
+    2100000: lambert1
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: CrimeScene_Bin
   externalObjects: {}
   materials:
     importMaterials: 1
