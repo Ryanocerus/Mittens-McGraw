@@ -2551,9 +2551,9 @@ MonoBehaviour:
   relativeRect:
     serializedVersion: 2
     x: 0
-    y: 11.595
-    width: 1165
-    height: 32.466
+    y: 78.6
+    width: 1137
+    height: 32.843998
   relativePosition: {x: 0, y: 30}
   numSlots: 1
   uiText: {fileID: 0}
@@ -6212,9 +6212,9 @@ MonoBehaviour:
   isLocked: 0
   id: 6
   title: Verb Line
-  manualSize: {x: 100, y: 5}
+  manualSize: {x: 100, y: 14.251151}
   positionType: 2
-  manualPosition: {x: 50, y: 98}
+  manualPosition: {x: 50, y: 93.7}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -6227,7 +6227,7 @@ MonoBehaviour:
   actionListOnTurnOff: {fileID: 0}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
-  fitWithinScreen: 1
+  fitWithinScreen: 0
   backgroundTexture: {fileID: 0}
   visibleElements:
   - {fileID: 114427290304454396}
@@ -6245,7 +6245,7 @@ MonoBehaviour:
   elements:
   - {fileID: 114427290304454396}
   spacing: 0
-  sizeType: 1
+  sizeType: 0
   autoSizeEveryFrame: 0
   orientation: 0
   transitionType: 4
@@ -6283,13 +6283,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 1165, y: 111.065994}
+  biggestElementSize: {x: 1137, y: 111.444}
   rect:
     serializedVersion: 2
     x: 0
-    y: 734.35
-    width: 1165
-    height: 38.65
+    y: 677.012
+    width: 1137
+    height: 111.444
   showInFilter: 1
 --- !u!114 &114953664341672494
 MonoBehaviour:
